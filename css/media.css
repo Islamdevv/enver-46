@@ -1,0 +1,340 @@
+@media (max-width: 1175px) {
+  .vector3 {
+    left: -35px;
+    bottom: 30px;
+  }
+  .vector1 {
+    left: -5px;
+  }
+  .vector2 {
+    top: 67px;
+    right: 40px;
+  }
+  .vector4 {
+    right: 60px;
+    bottom: 40px;
+  }
+  .portfolio-block .box {
+    max-width: 303px;
+    height: 230px;
+  }
+}
+
+@media (max-width: 1113px) {
+  .portfolio-block .box {
+    max-width: 285px;
+    height: 213px;
+  }
+}
+
+@media (max-width: 1085px) {
+  .service-block .box {
+    width: 295px;
+  }
+}
+
+@media (max-width: 1085px) {
+  .service-block .box {
+    width: 285px;
+  }
+  .portfolio-block .box {
+    max-width: 270px;
+    height: 203px;
+  }
+  .welcome-text p {
+    width: 415px;
+  }
+  .main-image {
+    max-width: 480px;
+  }
+}
+
+@media (max-width: 1035px) {
+  .service-block .box {
+    width: 280px;
+  }
+}
+
+@media (max-width: 1011px) {
+  .service-block .box {
+    width: 270px;
+  }
+  .portfolio-block .box {
+    max-width: 252px;
+    height: 190px;
+  }
+  #contact {
+    padding-bottom: 52px;
+  }
+  #portfolio {
+    padding-block: 35px;
+  }
+  .portfolio-block {
+    height: 340px;
+  }
+}
+
+@media (max-width: 982px) {
+  .service-block .box {
+    width: 260px;
+  }
+  .welcome-text h1 {
+    font-size: 45px;
+  }
+  .welcome-text p {
+    width: 350px;
+    font-size: 15px;
+    line-height: 30px;
+  }
+  .service h1 {
+    width: 500px;
+    font-size: 37px;
+  }
+  .portfolio h1 {
+    font-size: 37px;
+  }
+  .contact h1 {
+    width: 479px;
+    font-size: 37px;
+  }
+  button {
+    width: 190px;
+    height: 46px;
+  }
+  .logo h1 {
+    font-size: 24px;
+  }
+  .logo img {
+    max-width: 34px;
+    width: 100%;
+  }
+  .logo {
+    gap: 7px;
+  }
+  nav a {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 955px) {
+  .service-block .box {
+    width: 250px;
+  }
+  .service-block {
+    height: 335px;
+  }
+  .portfolio-block .box {
+    max-width: 240px;
+    height: 181px;
+  }
+  #vector3 {
+    max-width: 55px;
+  }
+  #vector1 {
+    max-width: 60px;
+  }
+  #vector2 {
+    max-width: 42px;
+  }
+  #vector4 {
+    max-width: 33px;
+    width: 100%;
+  }
+  .vector1 {
+    left: 30px;
+  }
+  .vector3 {
+    left: 18px;
+    bottom: 15px;
+  }
+  .vector2 {
+    top: 67px;
+    right: 57px;
+  }
+}
+
+@media (max-width: 916px) {
+  .service-block .box {
+    width: 215px;
+  }
+  .portfolio-block .box {
+    max-width: 230px;
+    height: 174px;
+  }
+  .welcome-text h1 {
+    font-size: 40px;
+  }
+  .welcome-text p {
+    width: 350px;
+    font-size: 14px;
+    line-height: 27px;
+  }
+  button {
+    width: 180px;
+    height: 46px;
+  }
+  .service h1 {
+    width: 378px;
+    font-size: 32px;
+  }
+  .service-block .box p {
+    font-size: 14px;
+  }
+  .contact h1 {
+    width: 414px;
+    font-size: 32px;
+  }
+  .portfolio-block {
+    height: 300px;
+    padding-block: 37px;
+  }
+  .main-image {
+    max-width: 440px;
+  }
+  .portfolio h1 {
+    font-size: 32px;
+  }
+
+  .service-block {
+    padding-block: 40px;
+    justify-content: space-between;
+    height: 320px;
+  }
+  .portfolio-block .box {
+    max-width: 205px;
+    height: 155px;
+  }
+  .portfolio-block {
+    height: 277px;
+    padding-block: 37px;
+  }
+}
+@media (max-width: 842px) {
+  .service h1 {
+    width: 346px;
+    font-size: 28px;
+  }
+  .portfolio h1 {
+    font-size: 28px;
+  }
+  .contact h1 {
+    width: 414px;
+    font-size: 28px;
+  }
+  .main-image {
+    max-width: 370px;
+  }
+  nav a {
+    font-size: 13px;
+  }
+  .welcome-text p {
+    font-size: 13px;
+    margin-block: 5px;
+  }
+  .vector4 {
+    right: 20px;
+    bottom: 20px;
+  }
+  .vector2 {
+    top: 60px;
+    right: 28px;
+  }
+  .vector1 {
+    left: -1px;
+  }
+  .vector3 {
+    left: -20px;
+    bottom: 11px;
+  }
+  button {
+    width: 170px;
+    height: 40px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 800px) {
+  .service-block {
+    justify-content: center;
+    gap: 30px;
+    height: 300px;
+  }
+  .portfolio-block .box {
+    max-width: 195px;
+    height: 146px;
+  }
+  .portfolio-block {
+    height: 260px;
+    padding-block: 33px;
+  }
+  nav {
+    gap: 20px;
+  }
+  nav a {
+    font-size: 12px;
+  }
+  p {
+    font-size: 13px;
+  }
+  .logo h1 {
+    font-size: 20px;
+  }
+  .logo img {
+    max-width: 30px;
+  }
+  .welcome-text p {
+    width: 300px;
+    padding-block: 5px;
+  }
+}
+
+@media (max-width: 785px) {
+  .service-block {
+    gap: 20px;
+  }
+  .portfolio-block .box {
+    max-width: 185px;
+    height: 139px;
+  }
+  .portfolio-block {
+    height: 252px;
+    padding-block: 25px;
+  }
+}
+@media (max-width: 775px) {
+  .service-block {
+    gap: 15px;
+  }
+}
+@media (max-width: 740px) {
+  .service-block {
+    gap: 10px;
+  }
+}
+
+@media (max-width: 735px) {
+  .service-block .box p {
+    font-size: 12px;
+    width: 176px;
+    line-height: 20px;
+  }
+  .service-block .box {
+    width: 208px;
+  }
+  h4 {
+    font-size: 14px;
+  }
+  .service-block .box {
+    gap: 10px;
+  }
+  .service-block {
+    height: 280px;
+  }
+  .portfolio-block .box {
+    max-width: 172px;
+    height: 130px;
+  }
+  .portfolio-block {
+    height: 235px;
+  }
+}
